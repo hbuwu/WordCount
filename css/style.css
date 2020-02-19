@@ -14,12 +14,12 @@ main {
 }
 
 .pic {
-    width: 70vw;
-    height: 39.375vw;
+    width: 60vw;
+    height: 33.75vw;
     background-image: url("../src/1.png");
     background-size: contain;
     transition-duration: 0.3s;
-    margin-bottom: 2rem;
+    margin: 0 auto 2rem;
 }
 
 h2 {
