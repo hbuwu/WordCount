@@ -1,0 +1,30 @@
+main {
+    width: 70vw;
+    margin: 0 auto;
+}
+
+#editor {
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+}
+
+#counter {
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+}
+
+.pic {
+    width: 70vw;
+    height: 39.375vw;
+    background-image: url("../src/1.png");
+    background-size: contain;
+    transition-duration: 0.3s;
+    margin-bottom: 2rem;
+}
+
+h2 {
+    text-align: center;
+    margin: 0 auto 3rem;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
